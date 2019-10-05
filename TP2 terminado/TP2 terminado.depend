@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570242111 source:c:\users\sofia\desktop\tp2 terminado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
