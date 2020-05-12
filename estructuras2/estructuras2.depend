@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1588773181 source:c:\users\sofia\desktop\cursada online\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hardcodeo.h"
+
+1588749656 c:\users\sofia\desktop\cursada online\estructuras2\hardcodeo.h
+
+1589261469 source:c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+	"almuerzo.h"
+
+1588749656 c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\hardcodeo.h
+
+1589261453 source:c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hardcodeo.h"
+	"empleado.h"
+
+1589261639 c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\empleado.h
+	"sector.h"
+
+1589260661 c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\sector.h
+
+1589260694 source:c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\almuerzo.c
+
+1589260694 source:c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\comida.c
+
+1589260661 source:c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1589261566 c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\almuerzo.h
+
+1589261354 source:c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+	"sector.h"
+	"informes.h"
+
+1589261354 c:\users\sofia\desktop\carpetas\antonioo\cursada online\estructuras2\informes.h
+
